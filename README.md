@@ -1,4 +1,5 @@
 Better-Game-AI
+
 class AdvancedGameAssistant:
     def __init__(self):
         self.name = "新月同行和归龙潮 AI 游戏小助手"
